@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "The One That Got Away",
+  "base_artist": "Katy Perry",
+  "createdAt": "2026-03-09T17:09:11.697326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/01_The_One_That_Got_Away_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Roadtrip",
+      "has_synced": true,
+      "path": "select/02_The_One_That_Got_Away_Roadtrip.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Afgan",
+      "has_synced": true,
+      "path": "select/03_The_One_That_Got_Away_Afgan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/04_The_One_That_Got_Away_Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/05_The_One_That_Got_Away_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Wild Belle",
+      "has_synced": true,
+      "path": "select/06_The_One_That_Got_Away_Wild_Belle.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/07_The_One_That_Got_Away_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Kuba",
+      "has_synced": true,
+      "path": "select/08_The_One_That_Got_Away_Kuba.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/09_The_One_That_Got_Away_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Hey Monday",
+      "has_synced": true,
+      "path": "select/10_The_One_That_Got_Away_Hey_Monday.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Charice",
+      "has_synced": true,
+      "path": "select/11_The_One_That_Got_Away_Charice.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/12_The_One_That_Got_Away_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/13_The_One_That_Got_Away_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Addicted (The One That Got Away)",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/14_Addicted_(The_One_That_Got_Away)_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Hyland",
+      "has_synced": true,
+      "path": "select/15_The_One_That_Got_Away_Hyland.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Natasha Bedingfield",
+      "has_synced": true,
+      "path": "select/16_The_One_That_Got_Away_Natasha_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Denis Kalytovskyi",
+      "has_synced": true,
+      "path": "select/17_The_One_That_Got_Away_Denis_Kalytovskyi.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/18_The_One_That_Got_Away_Katy_Perry.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "has_synced": false,
+      "path": "select/pl_01_The_One_That_Got_Away_Katy_Perry.txt"
+    }
+  ]
+}
